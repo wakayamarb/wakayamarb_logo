@@ -25,18 +25,18 @@
 			C137.426,269.817,168.943,254.869,206.643,248.367z"/>
 		<g>
 			<g>
-				<path fill-rule="evenodd" clip-rule="evenodd" fill="#F0E9B9" d="M89.316,373.606c3.255,2.502,5.478,6.145,5.97,10.271
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#D5ED8A" d="M89.316,373.606c3.255,2.502,5.478,6.145,5.97,10.271
 					l6.34-10.271H89.316z"/>
-				<path fill-rule="evenodd" clip-rule="evenodd" fill="#F0E9B9" d="M78.846,370.093c2.25,0,4.395,0.424,6.353,1.191l-6.465-10.371
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#D5ED8A" d="M78.846,370.093c2.25,0,4.395,0.424,6.353,1.191l-6.465-10.371
 					l-6.457,10.459C74.292,370.55,76.513,370.093,78.846,370.093z"/>
-				<ellipse fill-rule="evenodd" clip-rule="evenodd" fill="#F0E9B9" cx="78.846" cy="385.619" rx="13.828" ry="12.808"/>
-				<path fill-rule="evenodd" clip-rule="evenodd" fill="#F0E9B9" d="M68.376,373.606H56.065l6.352,10.188
+				<ellipse fill-rule="evenodd" clip-rule="evenodd" fill="#D5ED8A" cx="78.846" cy="385.619" rx="13.828" ry="12.808"/>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#D5ED8A" d="M68.376,373.606H56.065l6.352,10.188
 					C62.931,379.702,65.142,376.091,68.376,373.606z"/>
-				<path fill-rule="evenodd" clip-rule="evenodd" fill="#F0E9B9" d="M89.316,397.634h12.311l-6.351-10.188
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#D5ED8A" d="M89.316,397.634h12.311l-6.351-10.188
 					C94.761,391.538,92.549,395.147,89.316,397.634z"/>
-				<path fill-rule="evenodd" clip-rule="evenodd" fill="#F0E9B9" d="M62.406,387.362l-6.341,10.271h12.312
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#D5ED8A" d="M62.406,387.362l-6.341,10.271h12.312
 					C65.121,395.13,62.899,391.489,62.406,387.362z"/>
-				<path fill-rule="evenodd" clip-rule="evenodd" fill="#F0E9B9" d="M78.846,401.147c-2.25,0-4.396-0.426-6.354-1.193l6.467,10.373
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#D5ED8A" d="M78.846,401.147c-2.25,0-4.396-0.426-6.354-1.193l6.467,10.373
 					l6.456-10.459C83.4,400.688,81.18,401.147,78.846,401.147z"/>
 			</g>
 		</g>
